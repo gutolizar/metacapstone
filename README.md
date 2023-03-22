@@ -5,7 +5,7 @@
 
 To run the project properly, install all dependencies with:
 
-### ´npm install´
+### `npm install`
 
 In the project directory, you can run:
 
